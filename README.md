@@ -1,2 +1,3 @@
-# Roboto
-Learn about us at https://www.roboto.ai/!
+# Roboto GitHub Templates
+
+Learn more at https://roboto.ai
