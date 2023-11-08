@@ -9,5 +9,5 @@ At Roboto, we help engineering teams search, transform and analyze sensor data. 
 You can get started by creating a free account at [**Roboto**](https://app.roboto.ai) and optionally install our CLI:
 
 ```
-$ pip install roboto
+pip install roboto
 ```
