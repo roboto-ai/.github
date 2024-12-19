@@ -1,5 +1,7 @@
 ![Helping humans understand machines](https://github.com/roboto-ai/.github/assets/63735/8326cbc4-d00d-490f-adc2-cd1568449652)
 
+---
+
 [**Roboto**](https://www.roboto.ai) is the data platform for robotics and embodied AI. 🤖⚡
 
 Empower your team to search, transform and analyze data in multimodal logs.
