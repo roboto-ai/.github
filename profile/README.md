@@ -4,7 +4,7 @@
 
 [**Roboto**](https://www.roboto.ai) is the data platform for robotics and embodied AI. 🤖⚡
 
-Empower your team to search, transform and analyze data in multimodal logs.
+Empower your team to search, transform and analyze multimodal data in logs.
 
 Roboto natively supports robotics data formats and leverages AI to make exploring and analyzing massive datasets effortless.
 
