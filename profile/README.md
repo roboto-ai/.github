@@ -1,4 +1,5 @@
-![Helping humans understand machines](https://github.com/roboto-ai/.github/assets/63735/8326cbc4-d00d-490f-adc2-cd1568449652)
+![Join the robotics data revolution](https://github.com/user-attachments/assets/f2964d92-f702-454a-8fc1-13b66114d112)
+
 
 ---
 
