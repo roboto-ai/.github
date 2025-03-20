@@ -3,7 +3,7 @@
 
 ---
 
-[**Roboto**](https://www.roboto.ai) is the data platform for robotics and embodied AI. 🤖⚡
+[**Roboto**](https://www.roboto.ai) is the data platform for robotics and physical AI. 🤖⚡
 
 Empower your team to search, transform and analyze multimodal data in logs.
 
