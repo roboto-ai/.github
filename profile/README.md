@@ -5,17 +5,15 @@
 
 [**Roboto**](https://www.roboto.ai) is the analytics engine for robotics and physical AI. 🤖⚡
 
-Empower your team to search, transform and analyze multimodal data in logs.
+Automate log analysis and event detection — accelerate triage, improve uptime, and build better models.
 
-Roboto natively supports robotics data formats and leverages AI to make exploring and analyzing massive datasets effortless.
+Roboto natively supports robotics data formats and leverages AI to explore and analyze complex datasets.
 
 ---
 
-🔮 [**Data Platform**](https://app.roboto.ai) – Search, transform and analyze logs from your robots. Includes support for ROS, PX4 and more.
+🔮 [**Platform**](https://app.roboto.ai) – Process data from your robots and analyze it with AI. Supports ROS, PX4, and more.
 
-💻 [**SDK & CLI**](https://github.com/roboto-ai/roboto-python-sdk) – Programmatically interact with Roboto using the Python SDK or CLI. 
-
-🪵 [**Robologs**](https://github.com/roboto-ai/robologs) – An open library of robotics data transforms that can be run locally or at scale in the cloud.
+💻 [**SDK & CLI**](https://github.com/roboto-ai/roboto-python-sdk) – Access Roboto programmatically using our Python SDK or command-line tools.
 
 ---
 
